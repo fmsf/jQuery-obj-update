@@ -12,12 +12,6 @@
         "name": "Francisco MS Ferreira",
         "url": "http://franciscomsferreira.blogspot.com/"
     },
-    "licenses": [
-        {
-            "type": "MIT",
-            "url": ""
-        }
-    ],
     "dependencies": {
         "jquery": ">=1.5"
     }
