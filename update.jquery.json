@@ -1,5 +1,5 @@
 {
-    "name": "Update",
+    "name": "update",
     "title": "jQuery Object Internal Update",
     "description": "A small pluggin to add functionality to allow a jQuery objecto to re-run it's selector safely updating it's internal DOM references map",
     "keywords": [
