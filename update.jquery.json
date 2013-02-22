@@ -1,0 +1,24 @@
+{
+    "name": "Update",
+    "title": "jQuery Object Internal Update",
+    "description": "A small pluggin to add functionality to allow a jQuery objecto to re-run it's selector safely updating it's internal DOM references map",
+    "keywords": [
+        "update",
+        "object",
+	      "internals"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Francisco MS Ferreira",
+        "url": "http://franciscomsferreira.blogspot.com/"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": ""
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
